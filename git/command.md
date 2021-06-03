@@ -76,3 +76,17 @@ git commit -m "message"
 git push origin master
 ```
 
+
+
+#### status
+
+git의 현재 상태를 확인하는 명령어
+
+
+
+- 기본 명령어
+
+```bash
+git status
+```
+
