@@ -550,3 +550,4 @@ sns.pointplot(data=df_local_3,x='연도',y='출생아수',hue='시군구별')
 ```
 
 ![image-20210609220234348](C:\Users\jini8\AppData\Roaming\Typora\typora-user-images\image-20210609220234348.png)
+
