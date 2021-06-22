@@ -16,7 +16,7 @@ anaconda+django+vscode/pycham
 
 #vscode에서 Ctrl+`한 다음 Terminal에서 아래 내용을 입력한다.
 
-
+-
 
 #conda version
 
@@ -49,7 +49,9 @@ $conda info --envs
 base                  *  C:\Users\jini8\anaconda3
 ToDoList                 C:\Users\jini8\anaconda3\envs\ToDoList
 
+#bash에서 콘다를 실행 하도록 해줌
 
+$ conda init bash --all 
 
 vscode의 bash에서 우클릭 > kill terminal 하고 재실행 시키기
 
